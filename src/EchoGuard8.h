@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: CERN-OHL-S-2.0
+// SPDX-License-Identifier: MIT
 //
 // EchoGuard8: Arduino driver for the EchoGuard-8 GNSS fusion array.
 // https://github.com/rmingon/EchoGuard-8

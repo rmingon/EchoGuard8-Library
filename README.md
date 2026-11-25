@@ -176,5 +176,7 @@ It is compiled in CI for AVR (Uno) and ESP32.
 
 ## License
 
-Released under the same licence as the EchoGuard-8 project, the **CERN Open Hardware Licence
-Version 2, Strongly Reciprocal** (CERN-OHL-S v2). See [LICENSE](./LICENSE).
+This library is released under the **MIT License**. See [LICENSE](./LICENSE).
+
+The EchoGuard-8 hardware and firmware are a separate project with their own licence, see the
+[main repository](https://github.com/rmingon/EchoGuard-8).
