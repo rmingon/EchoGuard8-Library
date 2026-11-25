@@ -1,0 +1,40 @@
+#######################################
+# Syntax coloring map for EchoGuard8
+#######################################
+
+# Datatypes (KEYWORD1)
+EchoGuard8	KEYWORD1
+EchoGuard8Fix	KEYWORD1
+EchoGuard8Status	KEYWORD1
+EchoGuard8Error	KEYWORD1
+
+# Methods and functions (KEYWORD2)
+begin	KEYWORD2
+read	KEYWORD2
+readRaw	KEYWORD2
+setSelectDelay	KEYWORD2
+setByteDelay	KEYWORD2
+lastError	KEYWORD2
+isUpdated	KEYWORD2
+ageMs	KEYWORD2
+packetCount	KEYWORD2
+errorCount	KEYWORD2
+decode	KEYWORD2
+crc16	KEYWORD2
+statusName	KEYWORD2
+errorName	KEYWORD2
+distanceMeters	KEYWORD2
+printDegrees	KEYWORD2
+latitude	KEYWORD2
+longitude	KEYWORD2
+altitude	KEYWORD2
+hdop	KEYWORD2
+maxResidual	KEYWORD2
+isTrusted	KEYWORD2
+
+# Constants (LITERAL1)
+PACKET_SIZE	LITERAL1
+MODULE_COUNT	LITERAL1
+DEFAULT_CLOCK_HZ	LITERAL1
+DEFAULT_SELECT_DELAY_US	LITERAL1
+ECHOGUARD8_VERSION	LITERAL1
